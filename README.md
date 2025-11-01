@@ -89,6 +89,6 @@ This internship helped in enhancing **data analysis, visualization, and storytel
 👤 **Jay Vishwakarma**  
 📧 jayvishwakarma0308@gmail.com  
 💼 [LinkedIn Profile](www.linkedin.com/in/jay-vishwakarma03)  
-💻 [GitHub Repository](https://github.com/yourusername/restaurant-data-analysis-cognifyz)
+💻 [GitHub Repository](https://github.com/Jayvish80/Restaurant-Data-Analysis-Cognifyz.git)
 
 ---
